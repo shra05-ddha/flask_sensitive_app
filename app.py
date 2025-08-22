@@ -2,7 +2,6 @@ from flask import Flask
 
 app = Flask(__name__)
 
-# Fake sensitive information (for learning only!)
 USERNAME = "admin"
 PASSWORD = "P@ssw0rd123"
 API_KEY = "fake-api-key-123456"
